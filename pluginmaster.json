@@ -15,14 +15,14 @@
     "DalamudApiLevel": 14,
     "IconUrl": "https://raw.githubusercontent.com/fnj00/CrystalRadio/refs/heads/master/CrystalRadio/images/icon.png",
     "ImageUrls": [
-      "https://raw.githubusercontent.com/fnj00/DalamudPluginRepo/master/Plugins/CrystalRadio/images/icon.png"
+      ""
     ],
     "DownloadLinkInstall": "https://github.com/fnj00/CrystalRadio/releases/download/v1.0.0.1/latest.zip",
     "IsHide": false,
     "IsTestingExclusive": false,
     "DownloadLinkTesting": "https://github.com/fnj00/CrystalRadio/releases/download/v1.0.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/fnj00/CrystalRadio/releases/download/v1.0.0.1/latest.zip",
-    "DownloadCount": 0,
+    "DownloadCount": 1,
     "LastUpdate": "1775077176"
   }
 ]
