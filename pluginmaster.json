@@ -4,7 +4,7 @@
     "Name": "CrystalRadio",
     "Punchline": "Stream internet radio stations while playing FFXIV",
     "Description": "Listen to your favorite internet radio stations directly in-game. Browse stations and manage your favorites.\nUse /cradio to open the radio player",
-    "InternalName": "CrystalRadio",
+    "InternalName": "CrystalRadioFork",
     "AssemblyVersion": "1.0.0.1",
     "RepoUrl": "https://github.com/fnj00/CrystalRadio",
     "ApplicableVersion": "any",
