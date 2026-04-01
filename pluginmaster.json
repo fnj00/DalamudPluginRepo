@@ -9,7 +9,9 @@
     "RepoUrl": "https://github.com/fnj00/CrystalRadio",
     "ApplicableVersion": "any",
     "Tags": [
-      "other"
+      "Other",
+      "Music",
+      "InternetRadio"
     ],
     "DalamudApiLevel": 14,
     "LoadPriority": 0,
