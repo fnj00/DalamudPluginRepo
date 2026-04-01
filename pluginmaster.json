@@ -14,9 +14,9 @@
     "LoadPriority": 0,
     "IsHide": false,
     "IsTestingExclusive": false,
-    "LastUpdate": 1775040000,
+    "LastUpdate": "1775075580",
     "DownloadCount": 0,
-    "IconUrl": "https://raw.githubusercontent.com/fnj00/CrystalRadio/refs/heads/master/CrystalRadio/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/fnj00/CrystalRadio/master/CrystalRadio/images/icon.png",
     "DownloadLinkInstall": "https://github.com/fnj00/CrystalRadio/releases/download/v1.0.0.1/latest.zip",
     "DownloadLinkTesting": "https://github.com/fnj00/CrystalRadio/releases/download/v1.0.0.1/latest.zip",
     "DownloadLinkUpdate": "https://github.com/fnj00/CrystalRadio/releases/download/v1.0.0.1/latest.zip"
